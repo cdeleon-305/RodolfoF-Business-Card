@@ -1,0 +1,26 @@
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+@import 'libs/vendor';
+@import 'libs/breakpoints';
+
+/*
+	Identity by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+*/
+
+/* Basic */
+
+	body {
+		&:after {
+			display: none;
+		}
+	}
+
+/* Main */
+
+	#main {
+		@include vendor('transform', 'none !important');
+		opacity: 1 !important;
+	}
