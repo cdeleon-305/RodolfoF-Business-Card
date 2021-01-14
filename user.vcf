@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Carlos Fajardo;;;
+FN: Rodolfo Reyes
+ORG:LiT LLC;
+TITLE:Co-Founder,\n Leave it Touchless LLC
+EMAIL;type=INTERNET;type=WORK;type=pref:rodolfo@leaveittouchless.com
+TEL;type=WORK;type=VOICE:+1 7862819008
+item1.ADR;type=WORK;type=pref:
+item1.X-ABADR:sg
+item2.URL;type=pref:
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
