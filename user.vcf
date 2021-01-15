@@ -3,9 +3,9 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Rodolfo Reyes;;;
 FN: Rodolfo Reyes
-ORG:LiT LLC;
-TITLE:Co-Founder,\n Leave it Touchless LLC
-EMAIL;type=INTERNET;type=WORK;type=pref:rodolfo@leaveittouchless.com
+ORG:Leave it Touchless;
+TITLE:Co-Founder\n Leave it Touchless LLC
+EMAIL;type=INTERNET;type=WORK;type=pref:
 TEL;type=WORK;type=VOICE:+1 7862819008
 item1.ADR;type=WORK;type=pref:
 item1.X-ABADR:sg
